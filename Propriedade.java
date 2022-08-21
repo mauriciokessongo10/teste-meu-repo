@@ -40,7 +40,12 @@ public abstract class Propriedade {//extends Espaco
     
     
     //Faltando os construtores
-
+    /
+    public void Propriedade(int m, int c)
+    {
+        this.m = m;
+        this.c = c;
+    }
   
     
 
