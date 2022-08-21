@@ -1,19 +1,22 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ick nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package gerenciador_monopoly;
 
-/**
- *
- * @author mauri
- */
 public class Lote extends Propriedade{
 
     private String cor;
     private double preçoDeAluguel;
     private double preçodeConstrução;
     private double preçoDeAluguelCasaConstruida;
+
+/*
+ GGGGGGGGGGGGGGGGGGGGGGGGG
+ GGGGGGGGGGGGGGGGGGGGGGGGGGG
+ GGGGGGGGGGGGGGG
+ MAURO CAMPEÃO
+ */
+
+
 
     @Override
     public void calcularAluguel() {
